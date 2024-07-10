@@ -1,0 +1,458 @@
+2024-06-05 06:15:44,167 - INFO - Download time for 20170516234500.gkg.csv.zip: 2.2999212741851807 seconds
+2024-06-05 06:15:44,167 - INFO - Download time for 20170516234500.gkg.csv.zip: 2.2999212741851807 seconds
+2024-06-05 06:15:44,749 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-05 06:15:44.749257
+2024-06-05 06:15:44,749 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-05 06:15:44.749257
+2024-06-05 06:15:45,128 - INFO - Download time for 20170516233000.gkg.csv.zip: 3.261898994445801 seconds
+2024-06-05 06:15:45,128 - INFO - Download time for 20170516233000.gkg.csv.zip: 3.261898994445801 seconds
+2024-06-05 06:15:46,011 - INFO - Download time for 20170516230000.gkg.csv.zip: 4.144230604171753 seconds
+2024-06-05 06:15:46,011 - INFO - Download time for 20170516230000.gkg.csv.zip: 4.144230604171753 seconds
+2024-06-05 06:15:46,011 - INFO - Download time for 20170516214500.gkg.csv.zip: 4.143677711486816 seconds
+2024-06-05 06:15:46,011 - INFO - Download time for 20170516214500.gkg.csv.zip: 4.143677711486816 seconds
+2024-06-05 06:15:47,228 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-05 06:15:47.228869
+2024-06-05 06:15:47,228 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-05 06:15:47.228869
+2024-06-05 06:15:47,334 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-05 06:15:47.334627
+2024-06-05 06:15:47,334 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-05 06:15:47.334627
+2024-06-05 06:15:47,350 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-05 06:15:47.350667
+2024-06-05 06:15:47,350 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-05 06:15:47.350667
+2024-06-05 06:45:54,310 - ERROR - Error copying data to database for table "gdelt"."20170516214500.csv": Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516214500.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:45:54,310 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516214500.csv - Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516214500.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:45:54,363 - ERROR - Error copying data to database for table "gdelt"."20170516234500.csv": Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516234500.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:45:54,363 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516234500.csv - Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516234500.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:45:54,393 - ERROR - Error copying data to database for table "gdelt"."20170516230000.csv": Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516230000.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:45:54,393 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516230000.csv - Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516230000.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:45:54,432 - ERROR - Error copying data to database for table "gdelt"."20170516233000.csv": Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516233000.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:45:54,432 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516233000.csv - Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516233000.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:56:33,601 - ERROR - Error copying data to database for table "gdelt"."20170516214500.csv": Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516214500.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:56:33,601 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516214500.csv - Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516214500.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:56:33,700 - ERROR - Error copying data to database for table "gdelt"."20170516230000.csv": Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516230000.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:56:33,700 - ERROR - Error copying data to database for table "gdelt"."20170516233000.csv": Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516233000.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:56:33,700 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516230000.csv - Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516230000.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:56:33,700 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516233000.csv - Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516233000.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:56:33,704 - ERROR - Error copying data to database for table "gdelt"."20170516234500.csv": Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516234500.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:56:33,705 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516234500.csv - Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516234500.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:59:02,094 - INFO - Download time for 20170516234500.gkg.csv.zip: 2.376614809036255 seconds
+2024-06-05 06:59:02,094 - INFO - Download time for 20170516234500.gkg.csv.zip: 2.376614809036255 seconds
+2024-06-05 06:59:02,779 - INFO - Download time for 20170516233000.gkg.csv.zip: 3.063746929168701 seconds
+2024-06-05 06:59:02,779 - INFO - Download time for 20170516233000.gkg.csv.zip: 3.063746929168701 seconds
+2024-06-05 06:59:03,320 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-05 06:59:03.320968
+2024-06-05 06:59:03,320 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-05 06:59:03.320968
+2024-06-05 06:59:03,376 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-05 06:59:03.376459
+2024-06-05 06:59:03,376 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-05 06:59:03.376459
+2024-06-05 06:59:03,842 - INFO - Download time for 20170516214500.gkg.csv.zip: 4.124725341796875 seconds
+2024-06-05 06:59:03,842 - INFO - Download time for 20170516214500.gkg.csv.zip: 4.124725341796875 seconds
+2024-06-05 06:59:03,846 - INFO - Download time for 20170516230000.gkg.csv.zip: 4.13172459602356 seconds
+2024-06-05 06:59:03,846 - INFO - Download time for 20170516230000.gkg.csv.zip: 4.13172459602356 seconds
+2024-06-05 06:59:05,214 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-05 06:59:05.214258
+2024-06-05 06:59:05,214 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-05 06:59:05.214258
+2024-06-05 06:59:05,222 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-05 06:59:05.222260
+2024-06-05 06:59:05,222 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-05 06:59:05.222260
+2024-06-05 06:59:54,897 - ERROR - Error copying data to database for table "gdelt"."20170516214500.csv": Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516214500.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:59:54,899 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516214500.csv - Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516214500.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:59:54,942 - ERROR - Error copying data to database for table "gdelt"."20170516234500.csv": Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516234500.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:59:54,942 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516234500.csv - Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516234500.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:59:54,970 - ERROR - Error copying data to database for table "gdelt"."20170516230000.csv": Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516230000.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:59:54,970 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516230000.csv - Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516230000.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:59:55,005 - ERROR - Error copying data to database for table "gdelt"."20170516233000.csv": Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516233000.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 06:59:55,005 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516233000.csv - Not an executable object: 'CREATE TABLE IF NOT EXISTS "gdelt"."20170516233000.csv" (\nGKGRECORDID TEXT,\nDATE TEXT,\nSourceCollectionIdentifier TEXT,\nSourceCommonName TEXT,\nDocumentIdentifier TEXT,\nCounts TEXT,\nV2Counts TEXT,\nThemes TEXT,\nV2Themes TEXT,\nLocations TEXT,\nV2Locations TEXT,\nPersons TEXT,\nV2Persons TEXT,\nOrganizations TEXT,\nV2Organizations TEXT,\nV2Tone FLOAT8,\nDates TEXT,\nGCAM TEXT,\nSharingImage TEXT,\nRelatedImages TEXT,\nSocialImageEmbeds TEXT,\nSocialVideoEmbeds TEXT,\nQuotations TEXT,\nAllNames TEXT,\nAmounts TEXT,\nTranslationInfo TEXT,\nExtras TEXT,\nFinalThemes TEXT\n)'
+2024-06-05 07:11:10,787 - ERROR - Error copying data to database for table "gdelt"."20170516214500.csv": name 'text' is not defined
+2024-06-05 07:11:10,787 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516214500.csv - name 'text' is not defined
+2024-06-05 07:11:10,881 - ERROR - Error copying data to database for table "gdelt"."20170516234500.csv": name 'text' is not defined
+2024-06-05 07:11:10,881 - ERROR - Error copying data to database for table "gdelt"."20170516233000.csv": name 'text' is not defined
+2024-06-05 07:11:10,881 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516233000.csv - name 'text' is not defined
+2024-06-05 07:11:10,881 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516234500.csv - name 'text' is not defined
+2024-06-05 07:11:10,881 - ERROR - Error copying data to database for table "gdelt"."20170516230000.csv": name 'text' is not defined
+2024-06-05 07:11:10,885 - ERROR - Error processing file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516230000.csv - name 'text' is not defined
+2024-06-05 07:12:24,235 - INFO - Insertion time for "gdelt"."20170516233000.csv": 0.3506355285644531 seconds
+2024-06-05 07:12:24,236 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516233000.csv at 2024-06-05 07:12:24.236706
+2024-06-05 07:12:24,251 - INFO - Insertion time for "gdelt"."20170516234500.csv": 0.3584411144256592 seconds
+2024-06-05 07:12:24,251 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516234500.csv at 2024-06-05 07:12:24.251674
+2024-06-05 07:12:24,265 - INFO - Insertion time for "gdelt"."20170516214500.csv": 0.520139217376709 seconds
+2024-06-05 07:12:24,265 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516214500.csv at 2024-06-05 07:12:24.265250
+2024-06-05 07:12:24,353 - INFO - Insertion time for "gdelt"."20170516230000.csv": 0.28978800773620605 seconds
+2024-06-05 07:12:24,353 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516230000.csv at 2024-06-05 07:12:24.353605
+2024-06-07 16:14:52,167 - INFO - Download time for 20170516233000.gkg.csv.zip: 6.500043630599976 seconds
+2024-06-07 16:14:52,167 - INFO - Download time for 20170516233000.gkg.csv.zip: 6.500043630599976 seconds
+2024-06-07 16:14:53,966 - INFO - Download time for 20170516234500.gkg.csv.zip: 8.279528856277466 seconds
+2024-06-07 16:14:53,966 - INFO - Download time for 20170516234500.gkg.csv.zip: 8.279528856277466 seconds
+2024-06-07 16:14:55,238 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-07 16:14:55.233863
+2024-06-07 16:14:55,238 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-07 16:14:55.233863
+2024-06-07 16:14:55,400 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-07 16:14:55.400580
+2024-06-07 16:14:55,400 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-07 16:14:55.400580
+2024-06-07 16:14:56,020 - INFO - Download time for 20170516230000.gkg.csv.zip: 10.36139702796936 seconds
+2024-06-07 16:14:56,020 - INFO - Download time for 20170516230000.gkg.csv.zip: 10.36139702796936 seconds
+2024-06-07 16:14:57,998 - INFO - Download time for 20170516214500.gkg.csv.zip: 12.308024883270264 seconds
+2024-06-07 16:14:57,998 - INFO - Download time for 20170516214500.gkg.csv.zip: 12.308024883270264 seconds
+2024-06-07 16:14:58,271 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-07 16:14:58.271270
+2024-06-07 16:14:58,271 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-07 16:14:58.271270
+2024-06-07 16:14:59,535 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-07 16:14:59.535160
+2024-06-07 16:14:59,535 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-07 16:14:59.535160
+2024-06-07 16:16:46,829 - INFO - Insertion time for "gdelt"."20170516234500.csv": 0.8383371829986572 seconds
+2024-06-07 16:16:46,831 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516234500.csv at 2024-06-07 16:16:46.831842
+2024-06-07 16:16:46,985 - INFO - Insertion time for "gdelt"."20170516233000.csv": 0.508587121963501 seconds
+2024-06-07 16:16:46,985 - INFO - Insertion time for "gdelt"."20170516214500.csv": 1.2815580368041992 seconds
+2024-06-07 16:16:46,985 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516233000.csv at 2024-06-07 16:16:46.985077
+2024-06-07 16:16:46,999 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516214500.csv at 2024-06-07 16:16:46.985077
+2024-06-07 16:16:47,018 - INFO - Insertion time for "gdelt"."20170516230000.csv": 0.727705717086792 seconds
+2024-06-07 16:16:47,018 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\20170516230000.csv at 2024-06-07 16:16:47.018272
+2024-06-07 16:25:50,880 - INFO - Download time for 20170516234500.gkg.csv.zip: 5.613849878311157 seconds
+2024-06-07 16:25:50,880 - INFO - Download time for 20170516234500.gkg.csv.zip: 5.613849878311157 seconds
+2024-06-07 16:25:52,334 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip - Cannot save file into a non-existent directory: 'C:\Users\TerryLu\Desktop\remote_running_code_gdelta\downloaded_files'
+2024-06-07 16:25:52,334 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip - Cannot save file into a non-existent directory: 'C:\Users\TerryLu\Desktop\remote_running_code_gdelta\downloaded_files'
+2024-06-07 16:25:53,449 - INFO - Download time for 20170516233000.gkg.csv.zip: 8.196150064468384 seconds
+2024-06-07 16:25:53,449 - INFO - Download time for 20170516233000.gkg.csv.zip: 8.196150064468384 seconds
+2024-06-07 16:25:55,013 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip - Cannot save file into a non-existent directory: 'C:\Users\TerryLu\Desktop\remote_running_code_gdelta\downloaded_files'
+2024-06-07 16:25:55,013 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip - Cannot save file into a non-existent directory: 'C:\Users\TerryLu\Desktop\remote_running_code_gdelta\downloaded_files'
+2024-06-07 16:25:55,050 - INFO - Download time for 20170516214500.gkg.csv.zip: 9.782232761383057 seconds
+2024-06-07 16:25:55,050 - INFO - Download time for 20170516214500.gkg.csv.zip: 9.782232761383057 seconds
+2024-06-07 16:25:56,633 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip - Cannot save file into a non-existent directory: 'C:\Users\TerryLu\Desktop\remote_running_code_gdelta\downloaded_files'
+2024-06-07 16:25:56,633 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip - Cannot save file into a non-existent directory: 'C:\Users\TerryLu\Desktop\remote_running_code_gdelta\downloaded_files'
+2024-06-07 16:25:57,183 - INFO - Download time for 20170516230000.gkg.csv.zip: 11.935574769973755 seconds
+2024-06-07 16:25:57,183 - INFO - Download time for 20170516230000.gkg.csv.zip: 11.935574769973755 seconds
+2024-06-07 16:25:58,567 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip - Cannot save file into a non-existent directory: 'C:\Users\TerryLu\Desktop\remote_running_code_gdelta\downloaded_files'
+2024-06-07 16:25:58,567 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip - Cannot save file into a non-existent directory: 'C:\Users\TerryLu\Desktop\remote_running_code_gdelta\downloaded_files'
+2024-06-07 16:26:37,575 - INFO - Download time for 20170516214500.gkg.csv.zip: 6.648308277130127 seconds
+2024-06-07 16:26:37,575 - INFO - Download time for 20170516214500.gkg.csv.zip: 6.648308277130127 seconds
+2024-06-07 16:26:37,575 - INFO - Download time for 20170516214500.gkg.csv.zip: 6.648308277130127 seconds
+2024-06-07 16:26:38,207 - INFO - Download time for 20170516234500.gkg.csv.zip: 7.280475378036499 seconds
+2024-06-07 16:26:38,207 - INFO - Download time for 20170516234500.gkg.csv.zip: 7.280475378036499 seconds
+2024-06-07 16:26:38,207 - INFO - Download time for 20170516234500.gkg.csv.zip: 7.280475378036499 seconds
+2024-06-07 16:26:40,934 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-07 16:26:40.934723
+2024-06-07 16:26:40,934 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-07 16:26:40.934723
+2024-06-07 16:26:40,934 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-07 16:26:40.934723
+2024-06-07 16:26:41,006 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-07 16:26:41.006251
+2024-06-07 16:26:41,006 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-07 16:26:41.006251
+2024-06-07 16:26:41,006 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-07 16:26:41.006251
+2024-06-07 16:26:41,435 - INFO - Download time for 20170516233000.gkg.csv.zip: 10.511528491973877 seconds
+2024-06-07 16:26:41,435 - INFO - Download time for 20170516233000.gkg.csv.zip: 10.511528491973877 seconds
+2024-06-07 16:26:41,435 - INFO - Download time for 20170516233000.gkg.csv.zip: 10.511528491973877 seconds
+2024-06-07 16:26:42,680 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-07 16:26:42.680533
+2024-06-07 16:26:42,680 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-07 16:26:42.680533
+2024-06-07 16:26:42,680 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-07 16:26:42.680533
+2024-06-07 16:26:43,134 - INFO - Download time for 20170516230000.gkg.csv.zip: 12.212061882019043 seconds
+2024-06-07 16:26:43,134 - INFO - Download time for 20170516230000.gkg.csv.zip: 12.212061882019043 seconds
+2024-06-07 16:26:43,134 - INFO - Download time for 20170516230000.gkg.csv.zip: 12.212061882019043 seconds
+2024-06-07 16:26:44,717 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-07 16:26:44.717540
+2024-06-07 16:26:44,717 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-07 16:26:44.717540
+2024-06-07 16:26:44,717 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-07 16:26:44.717540
+2024-06-07 16:28:11,886 - INFO - Insertion time for "gdelt"."20170516214500.csv": 1.180694341659546 seconds
+2024-06-07 16:28:11,886 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\downloaded_files\20170516214500.csv at 2024-06-07 16:28:11.886564
+2024-06-07 16:28:11,986 - INFO - Insertion time for "gdelt"."20170516234500.csv": 0.8503444194793701 seconds
+2024-06-07 16:28:11,986 - INFO - Insertion time for "gdelt"."20170516233000.csv": 0.8659017086029053 seconds
+2024-06-07 16:28:11,986 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\downloaded_files\20170516234500.csv at 2024-06-07 16:28:11.986531
+2024-06-07 16:28:11,986 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\downloaded_files\20170516233000.csv at 2024-06-07 16:28:11.986531
+2024-06-07 16:28:12,018 - INFO - Insertion time for "gdelt"."20170516230000.csv": 0.8924427032470703 seconds
+2024-06-07 16:28:12,018 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\downloaded_files\20170516230000.csv at 2024-06-07 16:28:12.018642
+2024-06-12 23:43:18,431 - INFO - Download time for 20170516234500.gkg.csv.zip: 3.106618642807007 seconds
+2024-06-12 23:43:18,431 - INFO - Download time for 20170516234500.gkg.csv.zip: 3.106618642807007 seconds
+2024-06-12 23:43:18,584 - INFO - Download time for 20170516233000.gkg.csv.zip: 3.259359836578369 seconds
+2024-06-12 23:43:18,584 - INFO - Download time for 20170516233000.gkg.csv.zip: 3.259359836578369 seconds
+2024-06-12 23:43:19,789 - INFO - Download time for 20170217000000.gkg.csv.zip: 4.4640953540802 seconds
+2024-06-12 23:43:19,789 - INFO - Download time for 20170217000000.gkg.csv.zip: 4.4640953540802 seconds
+2024-06-12 23:43:20,680 - INFO - Download time for 20170516214500.gkg.csv.zip: 5.355505704879761 seconds
+2024-06-12 23:43:20,680 - INFO - Download time for 20170516214500.gkg.csv.zip: 5.355505704879761 seconds
+2024-06-12 23:43:20,689 - INFO - Download time for 20170516230000.gkg.csv.zip: 5.36421537399292 seconds
+2024-06-12 23:43:20,689 - INFO - Download time for 20170516230000.gkg.csv.zip: 5.36421537399292 seconds
+2024-06-12 23:43:20,772 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-12 23:43:20.772304
+2024-06-12 23:43:20,772 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-12 23:43:20.772304
+2024-06-12 23:43:20,868 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-12 23:43:20.868502
+2024-06-12 23:43:20,868 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-12 23:43:20.868502
+2024-06-12 23:43:21,933 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-12 23:43:21.933591
+2024-06-12 23:43:21,933 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-12 23:43:21.933591
+2024-06-12 23:43:22,018 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-12 23:43:22.018227
+2024-06-12 23:43:22,018 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-12 23:43:22.018227
+2024-06-12 23:43:22,034 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-12 23:43:22.034027
+2024-06-12 23:43:22,034 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-12 23:43:22.034027
+2024-06-12 23:43:31,968 - INFO - Insertion time for "gdelt"."20170217000000.csv": 0.6220474243164062 seconds
+2024-06-12 23:43:31,981 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\downloaded_files\20170217000000.csv at 2024-06-12 23:43:31.981048
+2024-06-12 23:43:32,034 - INFO - Insertion time for "gdelt"."20170516234500.csv": 0.34850144386291504 seconds
+2024-06-12 23:43:32,034 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\downloaded_files\20170516234500.csv at 2024-06-12 23:43:32.034334
+2024-06-12 23:43:32,046 - INFO - Insertion time for "gdelt"."20170516230000.csv": 0.432267427444458 seconds
+2024-06-12 23:43:32,046 - INFO - Insertion time for "gdelt"."20170516233000.csv": 0.2708616256713867 seconds
+2024-06-12 23:43:32,046 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\downloaded_files\20170516230000.csv at 2024-06-12 23:43:32.046962
+2024-06-12 23:43:32,046 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\downloaded_files\20170516233000.csv at 2024-06-12 23:43:32.046962
+2024-06-12 23:43:32,069 - INFO - Insertion time for "gdelt"."20170516214500.csv": 0.5463123321533203 seconds
+2024-06-12 23:43:32,069 - INFO - Successfully wrote table from file: C:/Users/TerryLu/Desktop/remote_running_code_gdelta\downloaded_files\20170516214500.csv at 2024-06-12 23:43:32.069042
+2024-06-19 16:48:32,309 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 16:48:32,309 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:01:06,865 - INFO - Download time for 20170516234500.gkg.csv.zip: 10.42428731918335 seconds
+2024-06-19 17:01:06,865 - INFO - Download time for 20170516234500.gkg.csv.zip: 10.42428731918335 seconds
+2024-06-19 17:01:06,865 - INFO - Download time for 20170516234500.gkg.csv.zip: 10.42428731918335 seconds
+2024-06-19 17:01:08,521 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:01:08.521863
+2024-06-19 17:01:08,521 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:01:08.521863
+2024-06-19 17:01:08,521 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:01:08.521863
+2024-06-19 17:01:09,029 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.588592290878296 seconds
+2024-06-19 17:01:09,029 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.588592290878296 seconds
+2024-06-19 17:01:09,029 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.588592290878296 seconds
+2024-06-19 17:01:09,863 - INFO - Download time for 20170516233000.gkg.csv.zip: 13.42220950126648 seconds
+2024-06-19 17:01:09,863 - INFO - Download time for 20170516233000.gkg.csv.zip: 13.42220950126648 seconds
+2024-06-19 17:01:09,863 - INFO - Download time for 20170516233000.gkg.csv.zip: 13.42220950126648 seconds
+2024-06-19 17:01:11,935 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:01:11.935422
+2024-06-19 17:01:11,935 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:01:11.935422
+2024-06-19 17:01:11,935 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:01:11.935422
+2024-06-19 17:01:12,048 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:01:12.048696
+2024-06-19 17:01:12,048 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:01:12.048696
+2024-06-19 17:01:12,048 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:01:12.048696
+2024-06-19 17:01:12,519 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.078831434249878 seconds
+2024-06-19 17:01:12,519 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.078831434249878 seconds
+2024-06-19 17:01:12,519 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.078831434249878 seconds
+2024-06-19 17:01:14,550 - INFO - Download time for 20170516230000.gkg.csv.zip: 18.126387357711792 seconds
+2024-06-19 17:01:14,550 - INFO - Download time for 20170516230000.gkg.csv.zip: 18.126387357711792 seconds
+2024-06-19 17:01:14,550 - INFO - Download time for 20170516230000.gkg.csv.zip: 18.126387357711792 seconds
+2024-06-19 17:01:15,978 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:01:15.978772
+2024-06-19 17:01:15,978 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:01:15.978772
+2024-06-19 17:01:15,978 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:01:15.978772
+2024-06-19 17:01:16,134 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:01:16.134108
+2024-06-19 17:01:16,134 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:01:16.134108
+2024-06-19 17:01:16,134 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:01:16.134108
+2024-06-19 17:02:25,046 - INFO - Download time for 20170217000000.gkg.csv.zip: 10.776298999786377 seconds
+2024-06-19 17:02:25,046 - INFO - Download time for 20170217000000.gkg.csv.zip: 10.776298999786377 seconds
+2024-06-19 17:02:25,046 - INFO - Download time for 20170217000000.gkg.csv.zip: 10.776298999786377 seconds
+2024-06-19 17:02:25,046 - INFO - Download time for 20170217000000.gkg.csv.zip: 10.776298999786377 seconds
+2024-06-19 17:02:26,680 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:02:26.680231
+2024-06-19 17:02:26,680 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:02:26.680231
+2024-06-19 17:02:26,680 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:02:26.680231
+2024-06-19 17:02:26,680 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:02:26.680231
+2024-06-19 17:02:27,185 - INFO - Download time for 20170516234500.gkg.csv.zip: 12.919893264770508 seconds
+2024-06-19 17:02:27,185 - INFO - Download time for 20170516234500.gkg.csv.zip: 12.919893264770508 seconds
+2024-06-19 17:02:27,185 - INFO - Download time for 20170516234500.gkg.csv.zip: 12.919893264770508 seconds
+2024-06-19 17:02:27,185 - INFO - Download time for 20170516234500.gkg.csv.zip: 12.919893264770508 seconds
+2024-06-19 17:02:28,928 - INFO - Download time for 20170516233000.gkg.csv.zip: 14.664548635482788 seconds
+2024-06-19 17:02:28,928 - INFO - Download time for 20170516233000.gkg.csv.zip: 14.664548635482788 seconds
+2024-06-19 17:02:28,928 - INFO - Download time for 20170516233000.gkg.csv.zip: 14.664548635482788 seconds
+2024-06-19 17:02:28,928 - INFO - Download time for 20170516233000.gkg.csv.zip: 14.664548635482788 seconds
+2024-06-19 17:02:30,204 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:02:30.204230
+2024-06-19 17:02:30,204 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:02:30.204230
+2024-06-19 17:02:30,204 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:02:30.204230
+2024-06-19 17:02:30,204 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:02:30.204230
+2024-06-19 17:02:30,782 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:02:30.782037
+2024-06-19 17:02:30,782 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:02:30.782037
+2024-06-19 17:02:30,782 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:02:30.782037
+2024-06-19 17:02:30,782 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:02:30.782037
+2024-06-19 17:02:30,797 - INFO - Download time for 20170516230000.gkg.csv.zip: 16.5363872051239 seconds
+2024-06-19 17:02:30,797 - INFO - Download time for 20170516230000.gkg.csv.zip: 16.5363872051239 seconds
+2024-06-19 17:02:30,797 - INFO - Download time for 20170516230000.gkg.csv.zip: 16.5363872051239 seconds
+2024-06-19 17:02:30,797 - INFO - Download time for 20170516230000.gkg.csv.zip: 16.5363872051239 seconds
+2024-06-19 17:02:32,655 - INFO - Download time for 20170516214500.gkg.csv.zip: 18.386083841323853 seconds
+2024-06-19 17:02:32,655 - INFO - Download time for 20170516214500.gkg.csv.zip: 18.386083841323853 seconds
+2024-06-19 17:02:32,655 - INFO - Download time for 20170516214500.gkg.csv.zip: 18.386083841323853 seconds
+2024-06-19 17:02:32,655 - INFO - Download time for 20170516214500.gkg.csv.zip: 18.386083841323853 seconds
+2024-06-19 17:02:34,188 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:02:34.188544
+2024-06-19 17:02:34,188 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:02:34.188544
+2024-06-19 17:02:34,188 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:02:34.188544
+2024-06-19 17:02:34,188 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:02:34.188544
+2024-06-19 17:02:34,319 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:02:34.319930
+2024-06-19 17:02:34,319 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:02:34.319930
+2024-06-19 17:02:34,319 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:02:34.319930
+2024-06-19 17:02:34,319 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:02:34.319930
+2024-06-19 17:06:47,794 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:06:47,794 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:06:47,794 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:06:47,794 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:06:47,794 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:06,549 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:06,549 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:06,549 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:06,549 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:06,549 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:06,549 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:23,528 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:23,528 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:23,528 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:23,528 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:23,528 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:23,528 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:07:23,528 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:14,498 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 2.304405689239502 seconds
+2024-06-19 17:15:14,498 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 2.304405689239502 seconds
+2024-06-19 17:15:14,498 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 2.304405689239502 seconds
+2024-06-19 17:15:14,498 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 2.304405689239502 seconds
+2024-06-19 17:15:14,498 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 2.304405689239502 seconds
+2024-06-19 17:15:14,498 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 2.304405689239502 seconds
+2024-06-19 17:15:14,498 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 2.304405689239502 seconds
+2024-06-19 17:15:14,498 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 2.304405689239502 seconds
+2024-06-19 17:15:14,614 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:14.614218
+2024-06-19 17:15:14,614 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:14.614218
+2024-06-19 17:15:14,614 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:14.614218
+2024-06-19 17:15:14,614 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:14.614218
+2024-06-19 17:15:14,614 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:14.614218
+2024-06-19 17:15:14,614 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:14.614218
+2024-06-19 17:15:14,614 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:14.614218
+2024-06-19 17:15:14,614 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:14.614218
+2024-06-19 17:15:28,930 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 1.9773249626159668 seconds
+2024-06-19 17:15:28,930 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 1.9773249626159668 seconds
+2024-06-19 17:15:28,930 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 1.9773249626159668 seconds
+2024-06-19 17:15:28,930 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 1.9773249626159668 seconds
+2024-06-19 17:15:28,930 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 1.9773249626159668 seconds
+2024-06-19 17:15:28,930 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 1.9773249626159668 seconds
+2024-06-19 17:15:28,930 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 1.9773249626159668 seconds
+2024-06-19 17:15:28,930 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 1.9773249626159668 seconds
+2024-06-19 17:15:28,930 - INFO - Download time for 20240619203000.translation.gkg.csv.zip: 1.9773249626159668 seconds
+2024-06-19 17:15:29,046 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:29.046031
+2024-06-19 17:15:29,046 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:29.046031
+2024-06-19 17:15:29,046 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:29.046031
+2024-06-19 17:15:29,046 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:29.046031
+2024-06-19 17:15:29,046 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:29.046031
+2024-06-19 17:15:29,046 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:29.046031
+2024-06-19 17:15:29,046 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:29.046031
+2024-06-19 17:15:29,046 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:29.046031
+2024-06-19 17:15:29,046 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20240619203000.translation.gkg.csv.zip at 2024-06-19 17:15:29.046031
+2024-06-19 17:15:57,583 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,583 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,583 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,583 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,583 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,583 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,583 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,583 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,583 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,583 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,808 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,808 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,808 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,808 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,808 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,808 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,808 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,808 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,808 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:57,808 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,176 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,176 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,176 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,176 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,176 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,176 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,176 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,176 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,176 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,176 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,215 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,215 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,215 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,215 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,215 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,215 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,215 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,215 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,215 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,215 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,327 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,327 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,327 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,327 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,327 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,327 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,327 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,327 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,327 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:15:58,327 - ERROR - Error processing URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip - cannot unpack non-iterable bool object
+2024-06-19 17:16:47,111 - INFO - Download time for 20170516233000.gkg.csv.zip: 9.544424057006836 seconds
+2024-06-19 17:16:47,111 - INFO - Download time for 20170516233000.gkg.csv.zip: 9.544424057006836 seconds
+2024-06-19 17:16:47,111 - INFO - Download time for 20170516233000.gkg.csv.zip: 9.544424057006836 seconds
+2024-06-19 17:16:47,111 - INFO - Download time for 20170516233000.gkg.csv.zip: 9.544424057006836 seconds
+2024-06-19 17:16:47,111 - INFO - Download time for 20170516233000.gkg.csv.zip: 9.544424057006836 seconds
+2024-06-19 17:16:47,111 - INFO - Download time for 20170516233000.gkg.csv.zip: 9.544424057006836 seconds
+2024-06-19 17:16:47,111 - INFO - Download time for 20170516233000.gkg.csv.zip: 9.544424057006836 seconds
+2024-06-19 17:16:47,111 - INFO - Download time for 20170516233000.gkg.csv.zip: 9.544424057006836 seconds
+2024-06-19 17:16:47,111 - INFO - Download time for 20170516233000.gkg.csv.zip: 9.544424057006836 seconds
+2024-06-19 17:16:47,111 - INFO - Download time for 20170516233000.gkg.csv.zip: 9.544424057006836 seconds
+2024-06-19 17:16:47,111 - INFO - Download time for 20170516233000.gkg.csv.zip: 9.544424057006836 seconds
+2024-06-19 17:16:48,643 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:16:48.643568
+2024-06-19 17:16:48,643 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:16:48.643568
+2024-06-19 17:16:48,643 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:16:48.643568
+2024-06-19 17:16:48,643 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:16:48.643568
+2024-06-19 17:16:48,643 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:16:48.643568
+2024-06-19 17:16:48,643 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:16:48.643568
+2024-06-19 17:16:48,643 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:16:48.643568
+2024-06-19 17:16:48,643 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:16:48.643568
+2024-06-19 17:16:48,643 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:16:48.643568
+2024-06-19 17:16:48,643 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:16:48.643568
+2024-06-19 17:16:48,643 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516233000.gkg.csv.zip at 2024-06-19 17:16:48.643568
+2024-06-19 17:16:48,991 - INFO - Download time for 20170516234500.gkg.csv.zip: 11.372764110565186 seconds
+2024-06-19 17:16:48,991 - INFO - Download time for 20170516234500.gkg.csv.zip: 11.372764110565186 seconds
+2024-06-19 17:16:48,991 - INFO - Download time for 20170516234500.gkg.csv.zip: 11.372764110565186 seconds
+2024-06-19 17:16:48,991 - INFO - Download time for 20170516234500.gkg.csv.zip: 11.372764110565186 seconds
+2024-06-19 17:16:48,991 - INFO - Download time for 20170516234500.gkg.csv.zip: 11.372764110565186 seconds
+2024-06-19 17:16:48,991 - INFO - Download time for 20170516234500.gkg.csv.zip: 11.372764110565186 seconds
+2024-06-19 17:16:48,991 - INFO - Download time for 20170516234500.gkg.csv.zip: 11.372764110565186 seconds
+2024-06-19 17:16:48,991 - INFO - Download time for 20170516234500.gkg.csv.zip: 11.372764110565186 seconds
+2024-06-19 17:16:48,991 - INFO - Download time for 20170516234500.gkg.csv.zip: 11.372764110565186 seconds
+2024-06-19 17:16:48,991 - INFO - Download time for 20170516234500.gkg.csv.zip: 11.372764110565186 seconds
+2024-06-19 17:16:48,991 - INFO - Download time for 20170516234500.gkg.csv.zip: 11.372764110565186 seconds
+2024-06-19 17:16:50,509 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.866397857666016 seconds
+2024-06-19 17:16:50,509 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.866397857666016 seconds
+2024-06-19 17:16:50,509 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.866397857666016 seconds
+2024-06-19 17:16:50,509 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.866397857666016 seconds
+2024-06-19 17:16:50,509 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.866397857666016 seconds
+2024-06-19 17:16:50,509 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.866397857666016 seconds
+2024-06-19 17:16:50,509 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.866397857666016 seconds
+2024-06-19 17:16:50,509 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.866397857666016 seconds
+2024-06-19 17:16:50,509 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.866397857666016 seconds
+2024-06-19 17:16:50,509 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.866397857666016 seconds
+2024-06-19 17:16:50,509 - INFO - Download time for 20170217000000.gkg.csv.zip: 12.866397857666016 seconds
+2024-06-19 17:16:51,800 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:16:51.800520
+2024-06-19 17:16:51,800 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:16:51.800520
+2024-06-19 17:16:51,800 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:16:51.800520
+2024-06-19 17:16:51,800 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:16:51.800520
+2024-06-19 17:16:51,800 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:16:51.800520
+2024-06-19 17:16:51,800 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:16:51.800520
+2024-06-19 17:16:51,800 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:16:51.800520
+2024-06-19 17:16:51,800 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:16:51.800520
+2024-06-19 17:16:51,800 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:16:51.800520
+2024-06-19 17:16:51,800 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:16:51.800520
+2024-06-19 17:16:51,800 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516234500.gkg.csv.zip at 2024-06-19 17:16:51.800520
+2024-06-19 17:16:51,878 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:16:51.878979
+2024-06-19 17:16:51,878 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:16:51.878979
+2024-06-19 17:16:51,878 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:16:51.878979
+2024-06-19 17:16:51,878 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:16:51.878979
+2024-06-19 17:16:51,878 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:16:51.878979
+2024-06-19 17:16:51,878 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:16:51.878979
+2024-06-19 17:16:51,878 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:16:51.878979
+2024-06-19 17:16:51,878 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:16:51.878979
+2024-06-19 17:16:51,878 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:16:51.878979
+2024-06-19 17:16:51,878 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:16:51.878979
+2024-06-19 17:16:51,878 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170217000000.gkg.csv.zip at 2024-06-19 17:16:51.878979
+2024-06-19 17:16:52,335 - INFO - Download time for 20170516230000.gkg.csv.zip: 14.770101070404053 seconds
+2024-06-19 17:16:52,335 - INFO - Download time for 20170516230000.gkg.csv.zip: 14.770101070404053 seconds
+2024-06-19 17:16:52,335 - INFO - Download time for 20170516230000.gkg.csv.zip: 14.770101070404053 seconds
+2024-06-19 17:16:52,335 - INFO - Download time for 20170516230000.gkg.csv.zip: 14.770101070404053 seconds
+2024-06-19 17:16:52,335 - INFO - Download time for 20170516230000.gkg.csv.zip: 14.770101070404053 seconds
+2024-06-19 17:16:52,335 - INFO - Download time for 20170516230000.gkg.csv.zip: 14.770101070404053 seconds
+2024-06-19 17:16:52,335 - INFO - Download time for 20170516230000.gkg.csv.zip: 14.770101070404053 seconds
+2024-06-19 17:16:52,335 - INFO - Download time for 20170516230000.gkg.csv.zip: 14.770101070404053 seconds
+2024-06-19 17:16:52,335 - INFO - Download time for 20170516230000.gkg.csv.zip: 14.770101070404053 seconds
+2024-06-19 17:16:52,335 - INFO - Download time for 20170516230000.gkg.csv.zip: 14.770101070404053 seconds
+2024-06-19 17:16:52,335 - INFO - Download time for 20170516230000.gkg.csv.zip: 14.770101070404053 seconds
+2024-06-19 17:16:53,810 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:16:53.810777
+2024-06-19 17:16:53,810 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:16:53.810777
+2024-06-19 17:16:53,810 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:16:53.810777
+2024-06-19 17:16:53,810 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:16:53.810777
+2024-06-19 17:16:53,810 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:16:53.810777
+2024-06-19 17:16:53,810 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:16:53.810777
+2024-06-19 17:16:53,810 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:16:53.810777
+2024-06-19 17:16:53,810 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:16:53.810777
+2024-06-19 17:16:53,810 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:16:53.810777
+2024-06-19 17:16:53,810 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:16:53.810777
+2024-06-19 17:16:53,810 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516230000.gkg.csv.zip at 2024-06-19 17:16:53.810777
+2024-06-19 17:16:54,273 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.64934539794922 seconds
+2024-06-19 17:16:54,273 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.64934539794922 seconds
+2024-06-19 17:16:54,273 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.64934539794922 seconds
+2024-06-19 17:16:54,273 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.64934539794922 seconds
+2024-06-19 17:16:54,273 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.64934539794922 seconds
+2024-06-19 17:16:54,273 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.64934539794922 seconds
+2024-06-19 17:16:54,273 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.64934539794922 seconds
+2024-06-19 17:16:54,273 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.64934539794922 seconds
+2024-06-19 17:16:54,273 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.64934539794922 seconds
+2024-06-19 17:16:54,273 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.64934539794922 seconds
+2024-06-19 17:16:54,273 - INFO - Download time for 20170516214500.gkg.csv.zip: 16.64934539794922 seconds
+2024-06-19 17:16:55,807 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:16:55.807794
+2024-06-19 17:16:55,807 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:16:55.807794
+2024-06-19 17:16:55,807 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:16:55.807794
+2024-06-19 17:16:55,807 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:16:55.807794
+2024-06-19 17:16:55,807 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:16:55.807794
+2024-06-19 17:16:55,807 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:16:55.807794
+2024-06-19 17:16:55,807 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:16:55.807794
+2024-06-19 17:16:55,807 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:16:55.807794
+2024-06-19 17:16:55,807 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:16:55.807794
+2024-06-19 17:16:55,807 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:16:55.807794
+2024-06-19 17:16:55,807 - INFO - Successfully downloaded from URL: http://data.gdeltproject.org/gdeltv2/20170516214500.gkg.csv.zip at 2024-06-19 17:16:55.807794
